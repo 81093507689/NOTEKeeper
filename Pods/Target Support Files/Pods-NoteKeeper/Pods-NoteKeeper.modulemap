@@ -1,0 +1,6 @@
+framework module Pods_NoteKeeper {
+  umbrella header "Pods-NoteKeeper-umbrella.h"
+
+  export *
+  module * { export * }
+}

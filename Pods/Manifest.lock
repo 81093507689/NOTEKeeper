@@ -1,0 +1,23 @@
+PODS:
+  - AMColorPicker (1.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - IQKeyboardManagerSwift (6.2.0)
+  - JJFloatingActionButton (1.2.0)
+
+DEPENDENCIES:
+  - AMColorPicker
+  - FMDB
+  - IQKeyboardManagerSwift
+  - JJFloatingActionButton
+
+SPEC CHECKSUMS:
+  AMColorPicker: a6e3682dcb409244d4f080f9dc71abbb46047bfc
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  JJFloatingActionButton: 8d3fc4b4c389c6984583cc371fd89deb819fa521
+
+PODFILE CHECKSUM: 9e225e4e8ab28d530c5bc5922c6c4c8d67de7174
+
+COCOAPODS: 1.4.0
