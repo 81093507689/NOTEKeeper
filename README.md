@@ -11,6 +11,6 @@ Note Keeper is an advanced notepad that lets you, secrecy of my important notes 
 # Slider 
 # Picker
 # Save Quality In database 
-
+# Color Picker
 
 ![Alt Text](http://chandwani.site11.com/DemoProjectGif/NoteKeeper.gif)
